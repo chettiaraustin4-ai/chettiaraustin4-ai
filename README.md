@@ -46,9 +46,9 @@ I enjoy working with data, creating interactive dashboards, and solving real-wor
 
 ## 🤝 Connect With Me
 
-- **GitHub:** https://github.com/chettiaraustin4-ai
-- **LinkedIn:** https://www.linkedin.com/in/austin-chettiar-8a261a245/
-- **Email:** chettiaraustin4@gmail.com
+- 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/austin-chettiar-8a261a245/)
+- 📧 **Email:** chettiaraustin4@gmail.com
+- 💻 **GitHub:** [My GitHub Profile](https://github.com/chettiaraustin4-ai)
 
 ---
 
